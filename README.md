@@ -49,3 +49,16 @@ socket/
 - ✅ Java语言实现
 - ✅ C/S架构模式
 - ✅ Windows/Linux兼容
+
+## 使用方法
+### 1. TCP版本
+- 运行TCPChatServer.java启动服务器
+- 运行TCPChatClient.java启动客户端
+- 在客户端输入用户名并回车
+- 开始聊天
+
+### 2. UDP版本
+- 运行UDPChatServer.java启动服务器
+- 运行UDPChatClient.java启动客户端
+- 在客户端输入用户名并回车
+- 开始聊天
